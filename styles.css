@@ -1,0 +1,78 @@
+#parent{
+    background: url("https://cdn.pixabay.com/photo/2017/04/05/04/44/background-2203989_960_720.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+#textarea{
+    padding:10px;
+    width:350px;
+    height:100px;  
+    text-align: left;
+    font-size: 20px;
+}
+
+#form{
+    text-align: center;
+    position:relative;
+    bottom:20px;
+
+}
+
+#btn1{
+    background-color: #11bb04;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+    box-shadow: 4px 4px #555555;
+}
+
+#btn2{
+    background-color: #e50000;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 40px;
+    border-radius: 20px;
+    box-shadow: 4px 4px #555555;
+  }
+
+#radio{
+    font-family: 'Trebuchet MS';
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    
+}
+#translucent{
+    background: rgba(0, 178, 163, 0.6);
+    height: 650px;
+    width: 580px;
+    border-radius: 50px;
+    position: relative;
+    left:410px;
+    bottom:60px;
+    box-shadow: 5px 5px #555;
+}
+
+input{
+    border-radius: 8px 8px 8px 8px;
+    font-size: 24px;
+    padding: 7px;
+}
+
+body{
+    margin: 0px;
+    
+}
+
+p{
+    font-family: 'Trebuchet MS';
+    font-size: x-large;
+    color: white;
+}
